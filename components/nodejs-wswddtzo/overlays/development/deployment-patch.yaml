@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/sjmrhtap/nodejs-wswddtzo:b0a715b2ca68b16c9c0c82e1324ea28ccf928afd@sha256:4f86d57bed2e4ab9e5f0d1782552c5d8e77c004ea5506b7c4e72d264b9fc496d
+        - image: quay.io/sjmrhtap/nodejs-wswddtzo:0fd9c828846cac000a1bc18cbf6ba1c6d72c1bf9@sha256:77532d707b181ddc68e76256af35d1c31c74425d4ccad28ffbacdbdce47c793e
           name: container-image
